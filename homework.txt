@@ -2,7 +2,7 @@ Adding git-test questions
 
 How do you create a new git repository locally?
 
-git add
+git init
 
 How would you find out what files are currently staged?
 
