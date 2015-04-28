@@ -10,6 +10,7 @@ git status
 
 How would you add a file to the staging area?
 
+git add <filename>
 
 How would you commit your changes with the 
 message "Adding git-test questions ?"
