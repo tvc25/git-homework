@@ -6,7 +6,7 @@ git init
 
 How would you find out what files are currently staged?
 
-
+git status
 
 How would you add a file to the staging area?
 
